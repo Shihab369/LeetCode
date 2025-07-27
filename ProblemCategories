@@ -1,1 +1,31 @@
+# Problem Categories
 
+Welcome to my security-focused LeetCode repository!  
+Below are the main problem categories with brief descriptions and links to their folders:
+
+- [Memory Manipulation](./MemoryManipulation)  
+  Problems involving arrays, pointers, and memory handling related to buffer overflows, heap corruption, etc.
+
+- [Binary Exploitation](./BinaryExploitation)  
+  Bit manipulation and binary logic problems relevant for low-level exploits.
+
+- [Cryptography](./Cryptography)  
+  Encoding, decoding, and cipher problems linked to cryptanalysis.
+
+- [SQL Injection](./SQLInjection)  
+  Input validation and string parsing problems related to injection vulnerabilities.
+
+- [Web Security](./WebSecurity)  
+  Problems related to authentication, session handling, and web vulnerabilities.
+
+- [Kernel Exploitation](./KernelExploitation)  
+  Advanced data structures and OS-related problems for kernel-level security understanding.
+
+- [Data Structures for Security](./DataStructuresForSecurity)  
+  Fundamental data structures that support security tools and attacks.
+
+- [Network Protocols and Exploitation](./NetworkProtocolsAndExploitation)  
+  Graph and network traversal problems relevant for network hacking.
+
+- [Automation Scripting](./AutomationScripting)  
+  Scripting and automation challenges for pentesting and security tasks.
