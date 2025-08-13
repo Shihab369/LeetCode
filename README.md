@@ -35,15 +35,3 @@ Each problem is organized in its own folder, which includes:
 - My solution code (in Python, Java, C++, etc.).
 - A brief explanation of the approach and thought process.
 
-### Example Problem
-
-#### [Two Sum](https://leetcode.com/problems/two-sum/)
-
-- **Category**: Arrays
-- **Difficulty**: Easy
-
-**Solution**: [two_sum.py](./arrays/two_sum.py)
-
-**Explanation**:
-The problem requires finding two numbers in an array that add up to a specific target. My approach involves using a hash map to store the indices of the numbers as I iterate through the array. This allows for a time complexity of O(n).
-
