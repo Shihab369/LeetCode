@@ -47,11 +47,3 @@ Each problem is organized in its own folder, which includes:
 **Explanation**:
 The problem requires finding two numbers in an array that add up to a specific target. My approach involves using a hash map to store the indices of the numbers as I iterate through the array. This allows for a time complexity of O(n).
 
-```python
-def two_sum(nums, target):
-    num_map = {}
-    for i, num in enumerate(nums):
-        complement = target - num
-        if complement in num_map:
-            return [num_map[complement], i]
-        num_map[num] = i
