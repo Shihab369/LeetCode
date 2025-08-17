@@ -32,6 +32,6 @@ I have categorized the problems based on their types. Below are the categories i
 Each problem is organized in its own folder, which includes:
 
 - The problem description (usually linked to the LeetCode problem).
-- My solution code (in Python, Java, C++, etc.).
+- My solution code (GO, C++, PYTHON etc.).
 - A brief explanation of the approach and thought process.
 
